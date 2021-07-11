@@ -8,14 +8,14 @@
 
 /* utility */
 .bg-icon{
-    background-image: url("../../img/bg-icon.svg");
+    background-image: url("../img/bg-icon.svg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: top 40% right;
 }
 
 .bg-btn{
-    background: url('../../img/bg-btn.svg');
+    background: url('../img/bg-btn.svg');
     background-repeat: no-repeat;
     background-position: right top;
 }
@@ -55,7 +55,7 @@
 .bg-btn-right::before{
     content: '';
     position: absolute;
-    background: url('../../img/bg-btn.svg') transparent;
+    background: url('../img/bg-btn.svg') transparent;
     width: 60%;
     height: 40%;
     top: -20%;
@@ -274,7 +274,7 @@ section{
     top: 0;
     left: 0;
     clip-path: polygon(0% 20%,100% 0%,100% 100%,0% 100%);
-    background: url('../../img/Schwoerer-production-line@3x.jpg');
+    background: url('../img/Schwoerer-production-line@3x.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -285,7 +285,7 @@ section{
 /* footer */
 #footer{
     padding: 2rem 0;
-    background: url('../../img/footer/footer-bg.svg') no-repeat left 80% bottom 60%, #573539;
+    background: url('../img/footer/footer-bg.svg') no-repeat left 80% bottom 60%, #573539;
     color: #ffff;
 }
 
@@ -301,7 +301,7 @@ section{
 }
 
 .address-plan{
-    background: url('../../img/footer/map.jpg') no-repeat center center;
+    background: url('../img/footer/map.jpg') no-repeat center center;
     background-size: 300%;
     display: flex;
     flex-direction: column;
