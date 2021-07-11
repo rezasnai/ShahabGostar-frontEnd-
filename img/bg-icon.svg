@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="55" viewBox="0 0 76 55">
+    <defs>
+        <style>
+            .cls-1{fill:#9b1c20;opacity:.1}
+        </style>
+    </defs>
+    <g id="Group_5037" transform="translate(-7.159 -13.954)">
+        <path id="Polygon_11" d="M37.065 0a6 6 0 0 1 5.174 2.963l9.978 17a6 6 0 0 1 0 6.074l-9.978 17A6 6 0 0 1 37.065 46h-20.13a6 6 0 0 1-5.174-2.963l-9.978-17a6 6 0 0 1 0-6.074l9.978-17A6 6 0 0 1 16.935 0z" class="cls-1" transform="translate(29.159 22.954)"/>
+        <path id="Polygon_12" d="M10.095 0a2 2 0 0 1 1.732 1l2.6 4.5a2 2 0 0 1 0 2l-2.6 4.5a2 2 0 0 1-1.732 1h-5.19a2 2 0 0 1-1.732-1L.577 7.5a2 2 0 0 1 0-2L3.173 1a2 2 0 0 1 1.732-1z" class="cls-1" transform="translate(7.159 13.954)"/>
+        <path id="Polygon_13" d="M5.42 0a1 1 0 0 1 .868.5L7.716 3a1 1 0 0 1 0 .992L6.288 6.5a1 1 0 0 1-.868.5H2.58a1 1 0 0 1-.868-.5L.284 4a1 1 0 0 1 0-1L1.712.5A1 1 0 0 1 2.58 0z" class="cls-1" transform="translate(11.159 40.954)"/>
+    </g>
+</svg>

@@ -1,0 +1,91 @@
+// include shabnam fonts
+
+@font-face {
+  font-family: Shabnam;
+  src: url('../../fonts/Shabnam.eot');
+  src: url('../../fonts/Shabnam.eot?#iefix') format('embedded-opentype'),
+       url('../../fonts/Shabnam.woff2') format('woff2'),
+       url('../../fonts/Shabnam.woff') format('woff'),
+       url('../../fonts/Shabnam.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('../../fonts/Shabnam-Bold.eot');
+  src: url('../../fonts/Shabnam-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../../fonts/Shabnam-Bold.woff2') format('woff2'),
+       url('../../fonts/Shabnam-Bold.woff') format('woff'),
+       url('../../fonts/Shabnam-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('../../fonts/Shabnam-Thin.eot');
+  src: url('../../fonts/Shabnam-Thin.eot?#iefix') format('embedded-opentype'),
+       url('../../fonts/Shabnam-Thin.woff2') format('woff2'),
+       url('../../fonts/Shabnam-Thin.woff') format('woff'),
+       url('../../fonts/Shabnam-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('../../fonts/Shabnam-Light.eot');
+  src: url('../../fonts/Shabnam-Light.eot?#iefix') format('embedded-opentype'),
+       url('../../fonts/Shabnam-Light.woff2') format('woff2'),
+       url('../../fonts/Shabnam-Light.woff') format('woff'),
+       url('../../fonts/Shabnam-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('../../fonts/Shabnam-Medium.eot');
+  src: url('../../fonts/Shabnam-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../../fonts/Shabnam-Medium.woff2') format('woff2'),
+       url('../../fonts/Shabnam-Medium.woff') format('woff'),
+       url('../../fonts/Shabnam-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+// colors
+$theme-colors: (
+  "primary": #fbf1f2,
+  "secendery": #af0021,
+);
+
+// scss-docs-start import-stack
+// Configuration
+@import "../bootstrp/scss/functions";
+@import "../bootstrp/scss/variables";
+@import "../bootstrp/scss/mixins";
+@import "../bootstrp/scss/utilities";
+// Layout & components
+@import "../bootstrp/scss/root";
+@import "../bootstrp/scss/reboot";
+@import "../bootstrp/scss/type";
+@import "../bootstrp/scss/images";
+@import "../bootstrp/scss/containers";
+@import "../bootstrp/scss/grid";
+@import "../bootstrp/scss/tables";
+@import "../bootstrp/scss/forms";
+@import "../bootstrp/scss/buttons";
+@import "../bootstrp/scss/transitions";
+@import "../bootstrp/scss/dropdown";
+@import "../bootstrp/scss/button-group";
+@import "../bootstrp/scss/nav";
+@import "../bootstrp/scss/navbar";
+@import "../bootstrp/scss/card";
+@import "../bootstrp/scss/alert";
+@import "../bootstrp/scss/close";
+@import "../bootstrp/scss/modal";
+// Helper
+@import "../bootstrp/scss/helpers";
+// Utilit
+@import "../bootstrp/scss/utilities/api";
+// scss-docs-end import-stack
+
+body{
+  font-family: "Shabnam", Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_571" fill="#042d47" stroke="#042d47" d="M0 0H51V51H0z" transform="translate(-.107 -.046)"/>
+        </clipPath>
+        <style>
+            .cls-3,.cls-4{fill:#9b1c20;stroke:#707070;stroke-width:.15px}
+        </style>
+    </defs>
+    <g id="Mask_Group_1" clip-path="url(#clip-path)" transform="translate(.107 .046)">
+        <g id="_001-solar-panel" transform="translate(.002)">
+            <g id="Group_4808" transform="translate(28.907)">
+                <g id="Group_4789" transform="translate(4.252 4.252)">
+                    <g id="Group_4788">
+                        <path id="Path_539" d="M53.6 6a6.8 6.8 0 1 0 6.8 6.8A6.8 6.8 0 0 0 53.6 6zm0 11.9a5.1 5.1 0 1 1 5.1-5.1 5.1 5.1 0 0 1-5.1 5.1z" class="cls-3" transform="translate(-46.797 -6)"/>
+                    </g>
+                </g>
+                <g id="Group_4791" transform="translate(10.204)">
+                    <g id="Group_4790">
+                        <path id="Rectangle_572" d="M0 0H1.701V2.551H0z" class="cls-3"/>
+                    </g>
+                </g>
+                <g id="Group_4793" transform="translate(10.204 19.557)">
+                    <g id="Group_4792">
+                        <path id="Rectangle_573" d="M0 0H1.701V2.551H0z" class="cls-3"/>
+                    </g>
+                </g>
+                <g id="Group_4795" transform="translate(0 10.204)">
+                    <g id="Group_4794">
+                        <path id="Rectangle_574" d="M0 0H2.551V1.701H0z" class="cls-3"/>
+                    </g>
+                </g>
+                <g id="Group_4797" transform="translate(19.557 10.204)">
+                    <g id="Group_4796">
+                        <path id="Rectangle_575" d="M0 0H2.551V1.701H0z" class="cls-3"/>
+                    </g>
+                </g>
+                <g id="Group_4799" transform="translate(2.636 2.637)">
+                    <g id="Group_4798">
+                        <path id="Rectangle_576" d="M0 0H1.701V2.551H0z" class="cls-4" transform="rotate(-45 1.452 .602)"/>
+                    </g>
+                </g>
+                <g id="Group_4801" transform="translate(16.465 16.464)">
+                    <g id="Group_4800">
+                        <path id="Rectangle_577" d="M0 0H1.701V2.551H0z" class="cls-4" transform="rotate(-45 1.452 .602)"/>
+                    </g>
+                </g>
+                <g id="Group_4803" transform="translate(2.636 16.463)">
+                    <g id="Group_4802">
+                        <path id="Rectangle_578" d="M0 0H2.551V1.701H0z" class="cls-4" transform="rotate(-45 2.178 .902)"/>
+                    </g>
+                </g>
+                <g id="Group_4805" transform="translate(16.466 2.636)">
+                    <g id="Group_4804">
+                        <path id="Rectangle_579" d="M0 0H2.551V1.701H0z" class="cls-4" transform="rotate(-45 2.178 .902)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="Group_4807" transform="translate(0 11.905)">
+                <g id="Group_4806">
+                    <path id="Path_540" fill="#042d47" stroke="#707070" stroke-width="0.15px" d="M45.812 54.657L25.4 17.243a.85.85 0 0 0-.747-.443H.849a.885.885 0 0 0-.19.025h-.02a.824.824 0 0 0-.234.1.643.643 0 0 0-.061.046.89.89 0 0 0-.184.188c-.012.018-.028.032-.039.051a.739.739 0 0 0-.046.107.69.69 0 0 0-.03.068.849.849 0 0 0-.045.259V23.6a.851.851 0 0 0 .1.4l17 31.462a.85.85 0 0 0 .748.446h27.21a.85.85 0 0 0 .747-1.258zm-7.281-9.8h-5.715l-4.174-7.653h5.715zm-20.408-9.35h-6.565l-4.174-7.653h6.565zm-2.236-7.653H21.6l4.174 7.653h-5.713zm3.164 9.354l4.174 7.653H16.66l-4.174-7.653zm1.938 0H26.7l4.174 7.653h-5.711zm12.44-1.7h-5.715l-4.174-7.654h5.715zM24.153 18.5l4.174 7.653h-5.715L18.438 18.5zm-7.653 0l4.174 7.653h-5.715L10.785 18.5zm-7.653 0l4.174 7.653H6.456L2.282 18.5zm9.519 35.714L1.7 23.387v-2.4l18.124 33.227zm3.4 0l-4.174-7.653h6.565l4.174 7.653zm8.5 0l-4.174-7.653h5.715l4.174 7.653zm7.653 0l-4.174-7.653h5.715l4.174 7.653z" transform="translate(-.003 -16.8)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
